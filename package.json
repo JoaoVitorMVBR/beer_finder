@@ -1,0 +1,15 @@
+{
+  "name": "beer_finder_code",
+  "version": "1.0.0",
+  "description": "A tool for search the most cheap beer price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoaoVilas and PedroHenrique",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3"
+  }
+}
