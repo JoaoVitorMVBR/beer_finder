@@ -9,7 +9,11 @@
   "author": "JoaoVilas and PedroHenrique",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "sequelize": "^6.37.3"
   }
 }
